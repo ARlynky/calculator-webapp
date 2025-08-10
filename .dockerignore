@@ -1,0 +1,14 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Documentation
+README.md
+
+# Build scripts
+pipeline.sh

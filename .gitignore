@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
+
+# macOS files (best practice for future collab in other projects)
+.DS_Store
