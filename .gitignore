@@ -8,3 +8,6 @@ venv/
 
 # macOS files (best practice for future collab in other projects)
 .DS_Store
+
+# Build scripts
+pipeline.sh
